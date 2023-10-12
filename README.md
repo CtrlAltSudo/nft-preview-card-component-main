@@ -1,6 +1,6 @@
 <h1 align="center">nft preview card component main</h1>
-<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/Base-Apparel-coming-soon-page/">Live Demo</a><p>
-<p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-UUyybDAyqP">Solution Page</a><p>
+<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/nft-preview-card-component-main/">Live Demo</a><p>
+<p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/nft-preview-card-component-main-fyG9IbqACa">Solution Page</a><p>
 <h2 align="center">Project Screenshot<h2>
 <p align="center">
   <img src="./images/screenshot.png" alt="project screen shot"></img>
